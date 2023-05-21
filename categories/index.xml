@@ -1,10 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Cuadernos</title>
+    <link>tdm1094.github.io/blog-personal-publico/categories/</link>
+    <description>Recent content in Categories on Cuadernos</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="tdm1094.github.io/blog-personal-publico/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Música</title>
+      <link>tdm1094.github.io/blog-personal-publico/categories/m%C3%BAsica/</link>
+      <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
+      
+      <guid>tdm1094.github.io/blog-personal-publico/categories/m%C3%BAsica/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
