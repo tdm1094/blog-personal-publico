@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Cuadernos</title>
-    <link>/blog-personal-publico/tags/</link>
+    <link>https://tdm1094.github.io/blog-personal-publico/tags/</link>
     <description>Recent content in Tags on Cuadernos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="/blog-personal-publico/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Feb 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://tdm1094.github.io/blog-personal-publico/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Interpol</title>
-      <link>/blog-personal-publico/tags/interpol/</link>
+      <link>https://tdm1094.github.io/blog-personal-publico/tags/interpol/</link>
       <pubDate>Mon, 20 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>/blog-personal-publico/tags/interpol/</guid>
+      <guid>https://tdm1094.github.io/blog-personal-publico/tags/interpol/</guid>
       <description></description>
     </item>
     
