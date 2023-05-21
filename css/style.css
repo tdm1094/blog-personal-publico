@@ -208,8 +208,3 @@ blockquote {
     display: block;
   }
 }
-
-/* Disqus*/
-.comments {
-    text-align: center;
-}
